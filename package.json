@@ -1,6 +1,6 @@
 {
     "name": "com.lrtools.easing",
-    "version": "0.1.0a",
+    "version": "0.1.0",
     "displayName": "Easing",
     "description": "Grant an easier and flexible way to use easing in unity.",
     "unity": "2022.3",
