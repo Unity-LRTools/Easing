@@ -1,0 +1,16 @@
+{
+    "name": "LRT.Easing.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:09004e0a3646d3f4aae4bd015f8c1112"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
