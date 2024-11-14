@@ -1,0 +1,17 @@
+{
+    "name": "com.LRTools.Easing",
+    "version": "0.1.0a",
+    "displayName": "Easing",
+    "description": "Grant an easier and flexible way to use easing in unity.",
+    "unity": "2022.3",
+    "licensesUrl": "https://opensource.org/license/mit",
+   "keywords": [
+      "Easing",
+      "LRTools"
+    ],
+    "author": {
+      "name": "Lucas Rossignol",
+      "email": "pro.lucasrossignol@gmail.com"
+    }
+  }
+  
