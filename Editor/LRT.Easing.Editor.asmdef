@@ -2,7 +2,8 @@
     "name": "LRT.Easing.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:09004e0a3646d3f4aae4bd015f8c1112"
+        "GUID:09004e0a3646d3f4aae4bd015f8c1112",
+        "GUID:9cdb44fbab3afc74a9d461d8d17d8cba"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
